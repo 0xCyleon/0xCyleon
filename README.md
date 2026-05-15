@@ -59,17 +59,6 @@ I am a Computing student with a growing focus on cybersecurity, secure systems, 
 - Expanding programming and scripting skills  
 - Building practical software and security projects  
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xCyleon&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=9cffb2"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCyleon&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=9cffb2"/>
-
-</div>
 
 ---
 
