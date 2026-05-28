@@ -1,12 +1,11 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,50:001f3f,100:0077b6&height=200&section=header&text=0xCyleon&fontSize=68&fontColor=00d4ff&fontAlignY=38&desc=Network%20Engineering%20%7C%20Cybersecurity%20%7C%20Infrastructure&descAlignY=60&descFontColor=7dd3f7&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:003d0f,100:00a86b&height=200&section=header&text=0xCyleon&fontSize=68&fontColor=39ff14&fontAlignY=38&desc=Cybersecurity%20%7C%20Systems%20%7C%20Development&descAlignY=60&descFontColor=9cffb2&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Computing+Student+%7C+Network+%26+Security+Focus;Building+Foundations+in+Network+Engineering;Working+Toward+CCNA+%26+Security+Certifications;Passionate+About+How+Networks+Are+Built+and+Secured" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=Computing+Student+focused+on+Cybersecurity;Interested+in+Web+Development+and+Secure+Systems;Exploring+Offensive+and+Defensive+Security;Building+Practical+Skills+Through+Projects" alt="Typing SVG" />
+<br/>
 
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0xCyleon-0d1117?style=for-the-badge&logo=github&logoColor=39ff14)](https://github.com/0xCyleon)
+[![GitHub](https://img.shields.io/badge/GitHub-0xCyleon-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/0xCyleon)
 
 </div>
 
@@ -14,62 +13,68 @@
 
 ## About
 
-I am a Computing student with a growing focus on cybersecurity, secure systems, and software development. My interests span both offensive and defensive security, with hands-on learning through projects, labs, and continuous technical exploration.
+I am currently completing a **BSc in Computing**, with plans to progress to an **MSc in Cybersecurity** next year. My focus is on network engineering and cybersecurity — understanding how networks are designed, how data flows across them, and how those systems are protected against threats.
+
+I am building strong, practical foundations in core networking concepts, security principles, and the tools used by professionals in the field. Working toward the **CCNA** as a key near-term milestone.
 
 ---
 
-## Core Areas
+## Areas of Interest
 
-- Cybersecurity  
-- Systems & Networking  
-- Software Development  
-- Web Technologies  
-- Security Research  
+| Domain | Topics |
+|---|---|
+| 🌐 **Network Engineering** | Routing, switching, subnetting, VLANs, TCP/IP |
+| 🔒 **Cybersecurity** | Threat detection, firewalls, network defence |
+| 📡 **Protocols & Infrastructure** | DNS, DHCP, ARP, HTTP/S, OSPF, STP |
+| 🛡️ **Security Fundamentals** | CIA triad, threat modelling, access control, hardening |
+| 🖥️ **Systems** | Linux administration, Windows networking, CLI tools |
 
 ---
 
-## Tech Stack
+## Tools & Technologies
 
-**Programming**  
-![Python](https://img.shields.io/badge/Python_(Foundational)-0d1117?style=for-the-badge&logo=python&logoColor=39ff14)
-
-**Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=39ff14)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=39ff14)
-
+**Networking**  
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00d4ff)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0d1117?style=for-the-badge&logo=cisco&logoColor=00d4ff)
 
 **Operating Systems**  
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39ff14)
-![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=microsoft&logoColor=39ff14)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00d4ff)
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=microsoft&logoColor=00d4ff)
 
-**Tools & Learning Platforms**  
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39ff14)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=39ff14)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0d1117?style=for-the-badge&logo=cisco&logoColor=39ff14)
+**Scripting**  
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00d4ff)
 
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=39ff14)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-0d1117?style=for-the-badge&logo=visualstudio&logoColor=39ff14)
-![JetBrains](https://img.shields.io/badge/JetBrains-0d1117?style=for-the-badge&logo=jetbrains&logoColor=39ff14)
+**Development & Version Control**  
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d4ff)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff)
+
 ---
 
-## Current Focus
+## Currently Working On
 
-- Strengthening cybersecurity fundamentals  
-- Practicing web application testing  
-- Expanding programming and scripting skills  
-- Building practical software and security projects  
+- 📶 **CCNA study** — routing & switching, VLANs, subnetting, network troubleshooting
+- 🔍 **Packet analysis** — traffic inspection and protocol behaviour with Wireshark
+- 🗺️ **Network simulation** — designing and testing topologies in Cisco Packet Tracer
+- 🔒 **Cybersecurity foundations** — security concepts, threat modelling, network defence
+- 🐍 **Python scripting** — basic automation and networking scripts
 
+---
+
+## Certifications & Learning Path
+
+![CCNA](https://img.shields.io/badge/CCNA-In_Progress-0d1117?style=for-the-badge&logo=cisco&logoColor=00d4ff)
+![Docker](https://img.shields.io/badge/Docker_Essentials-Planned-0d1117?style=for-the-badge&logo=docker&logoColor=4a9aba)
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Planned-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=4a9aba)
 
 ---
 
 ## Projects
 
-Repositories here reflect my learning journey in computing, development, and security-focused experimentation.
+Repositories here document my learning journey across networking, security, and scripting. Each project represents practical, hands-on work as I build toward a professional career in the field.
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a86b,50:003d0f,100:001a00&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:001f3f,100:000d1a&height=120&section=footer"/>
 </div>
