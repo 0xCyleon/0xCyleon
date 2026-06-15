@@ -18,9 +18,11 @@
 
 ## About
 
-BSc Computing student with a focus on network engineering, working towards a future MSc in Cybersecurity. My academic and practical work centres on understanding how networks are designed, how traffic flows through infrastructure, and how those systems are secured against threats.
+I am a BSc Computing student with a developing interest in network engineering and cybersecurity. My studies provide a broad foundation in computing principles, which I complement with focused exploration of networking concepts and infrastructure.
 
-I am building a strong foundation in core networking principles — routing, switching, subnetting, and protocol behaviour — alongside security concepts that will support a long-term career path into cybersecurity. Currently preparing for the **CCNA** as my first professional certification milestone.
+My academic and personal learning is centred on understanding how modern networks operate, including routing, switching, subnetting, and core protocol behaviour. I am also building an understanding of how these systems are secured and monitored in practice.
+
+I am currently preparing for the CCNA certification as part of my continued development in networking fundamentals and practical IT skills.
 
 ---
 
