@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1b2d,50:1a3a5c,100:2e6da4&height=200&section=header&text=BSc%20Computing%20%7C%20Network%20Engineering&fontSize=34&fontColor=e8f4fd&fontAlignY=38&desc=Aspiring%20Network%20%26%20Cybersecurity%20Engineer&descAlignY=60&descFontColor=a8c8e8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f1b2d,50:1a3a5c,100:2e6da4&amp;height=200&amp;section=header&amp;text=Welcome!&amp;fontSize=38&amp;fontColor=e8f4fd&amp;fontAlignY=38&amp;desc=Pursuing%20BSc%20Computing%20%7C%20Focused%20on%20Network%20Engineering&amp;descAlignY=60&amp;descFontColor=a8c8e8&amp;animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=4A90D9&center=true&vCenter=true&width=800&lines=BSc+Computing+Student+%7C+Network+Engineering+Focus;Studying+Routing%2C+Switching+%26+Protocol+Design;Working+Towards+CCNA+Certification;Future+MSc+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=4A90D9&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=BSc+Computing+Student+%7C+Network+Engineering+Focus;Studying+Routing%2C+Switching+%26+Protocol+Design;Working+Towards+CCNA+Certification;Future+MSc+Cybersecurity" alt="Typing SVG" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0xCyleon-1a3a5c?style=for-the-badge&logo=github&logoColor=e8f4fd)](https://github.com/0xCyleon)
+<a href="https://github.com/0xCyleon">
+  <img src="https://img.shields.io/badge/GitHub-0xCyleon-1a3a5c?style=for-the-badge&amp;logo=github&amp;logoColor=e8f4fd" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -18,7 +20,7 @@
 
 BSc Computing student with a focus on network engineering, working towards a future MSc in Cybersecurity. My academic and practical work centres on understanding how networks are designed, how traffic flows through infrastructure, and how those systems are secured against threats.
 
-I am building a strong foundation in core networking principles — routing, switching, subnetting, and protocol behaviour — alongside an introduction to security concepts that will support a career path into cybersecurity. Currently preparing for the **CCNA** as my first professional certification milestone.
+I am building a strong foundation in core networking principles — routing, switching, subnetting, and protocol behaviour — alongside security concepts that will support a long-term career path into cybersecurity. Currently preparing for the **CCNA** as my first professional certification milestone.
 
 ---
 
@@ -28,35 +30,39 @@ I am building a strong foundation in core networking principles — routing, swi
 |---|---|
 | 🌐 **Network Engineering** | Routing, switching, subnetting, VLANs, TCP/IP |
 | 🔒 **Cybersecurity** | Threat detection, firewalls, network defence |
-| 📡 **Protocols & Infrastructure** | DNS, DHCP, ARP, HTTP/S, OSPF, STP |
+| 📡 **Protocols and Infrastructure** | DNS, DHCP, ARP, HTTP/S, OSPF, STP |
 | 🛡️ **Security Fundamentals** | CIA triad, threat modelling, access control, hardening |
 | 🖥️ **Systems** | Linux administration, Windows networking, CLI tools |
 
 ---
 
-## Tools & Technologies
+## Tools and Technologies
 
 **Networking**
-![Wireshark](https://img.shields.io/badge/Wireshark-1a3a5c?style=for-the-badge&logo=wireshark&logoColor=a8c8e8)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1a3a5c?style=for-the-badge&logo=cisco&logoColor=a8c8e8)
+
+<img src="https://img.shields.io/badge/Wireshark-1a3a5c?style=for-the-badge&amp;logo=wireshark&amp;logoColor=a8c8e8" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1a3a5c?style=for-the-badge&amp;logo=cisco&amp;logoColor=a8c8e8" alt="Cisco Packet Tracer"/>
 
 **Operating Systems**
-![Linux](https://img.shields.io/badge/Linux-1a3a5c?style=for-the-badge&logo=linux&logoColor=a8c8e8)
-![Windows](https://img.shields.io/badge/Windows-1a3a5c?style=for-the-badge&logo=microsoft&logoColor=a8c8e8)
+
+<img src="https://img.shields.io/badge/Linux-1a3a5c?style=for-the-badge&amp;logo=linux&amp;logoColor=a8c8e8" alt="Linux"/>
+<img src="https://img.shields.io/badge/Windows-1a3a5c?style=for-the-badge&amp;logo=microsoft&amp;logoColor=a8c8e8" alt="Windows"/>
 
 **Scripting**
-![Python](https://img.shields.io/badge/Python-1a3a5c?style=for-the-badge&logo=python&logoColor=a8c8e8)
-![Bash](https://img.shields.io/badge/Bash-1a3a5c?style=for-the-badge&logo=gnubash&logoColor=a8c8e8)
 
-**Development & Version Control**
-![Git](https://img.shields.io/badge/Git-1a3a5c?style=for-the-badge&logo=git&logoColor=a8c8e8)
-![VS Code](https://img.shields.io/badge/VS_Code-1a3a5c?style=for-the-badge&logo=visualstudiocode&logoColor=a8c8e8)
+<img src="https://img.shields.io/badge/Python-1a3a5c?style=for-the-badge&amp;logo=python&amp;logoColor=a8c8e8" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-1a3a5c?style=for-the-badge&amp;logo=gnubash&amp;logoColor=a8c8e8" alt="Bash"/>
+
+**Development and Version Control**
+
+<img src="https://img.shields.io/badge/Git-1a3a5c?style=for-the-badge&amp;logo=git&amp;logoColor=a8c8e8" alt="Git"/>
+<img src="https://img.shields.io/badge/VS_Code-1a3a5c?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=a8c8e8" alt="VS Code"/>
 
 ---
 
 ## Currently Working On
 
-- 📶 **CCNA preparation** — routing & switching, VLANs, subnetting, network troubleshooting
+- 📶 **CCNA preparation** — routing and switching, VLANs, subnetting, network troubleshooting
 - 🔍 **Packet analysis** — traffic inspection and protocol behaviour with Wireshark
 - 🗺️ **Network simulation** — building and testing topologies in Cisco Packet Tracer
 - 🔒 **Cybersecurity fundamentals** — security principles, threat modelling, network defence
@@ -64,20 +70,20 @@ I am building a strong foundation in core networking principles — routing, swi
 
 ---
 
-## Certifications & Learning Path
+## Certifications and Learning Path
 
-![CCNA](https://img.shields.io/badge/Cisco_CCNA-In_Progress-1a3a5c?style=for-the-badge&logo=cisco&logoColor=a8c8e8)
-![Docker](https://img.shields.io/badge/Docker_Essentials-Planned-2e4a6d?style=for-the-badge&logo=docker&logoColor=a8c8e8)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Planned-2e4a6d?style=for-the-badge&logo=amazonwebservices&logoColor=a8c8e8)
+<img src="https://img.shields.io/badge/Cisco_CCNA-In_Progress-1a3a5c?style=for-the-badge&amp;logo=cisco&amp;logoColor=a8c8e8" alt="CCNA"/>
+<img src="https://img.shields.io/badge/Docker_Essentials-Planned-2e4a6d?style=for-the-badge&amp;logo=docker&amp;logoColor=a8c8e8" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Planned-2e4a6d?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=a8c8e8" alt="AWS"/>
 
 ---
 
 ## Projects
 
-Labs, network configs, and scripts developed as part of my studies. Each repository reflects hands-on work with the tools and concepts I am actively learning.
+Labs, network configurations, and scripts developed as part of my studies. Each repository reflects hands-on work with the tools and concepts I am actively learning.
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e6da4,50:1a3a5c,100:0f1b2d&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2e6da4,50:1a3a5c,100:0f1b2d&amp;height=120&amp;section=footer"/>
 </div>
