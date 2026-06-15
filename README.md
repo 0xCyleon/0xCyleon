@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,50:001f3f,100:0077b6&height=200&section=header&text=0xCyleon&fontSize=68&fontColor=00d4ff&fontAlignY=38&desc=Network%20Engineering%20%7C%20Cybersecurity%20%7C%20Infrastructure&descAlignY=60&descFontColor=7dd3f7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1b2d,50:1a3a5c,100:2e6da4&height=200&section=header&text=Network%20Engineering%20%7C%20BSc%20Computing&fontSize=36&fontColor=e8f4fd&fontAlignY=38&desc=Building%20a%20career%20in%20networks%20%26%20cybersecurity&descAlignY=60&descFontColor=a8c8e8&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Computing+Student+%7C+Network+%26+Security+Focus;Building+Foundations+in+Network+Engineering;Working+Toward+CCNA+%26+Security+Certifications;Passionate+About+How+Networks+Are+Built+and+Secured" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=2E6DA4&center=true&vCenter=true&width=900&lines=BSc+Computing+Student+%7C+Network+Engineering+Focus;Studying+Routing%2C+Switching+%26+Network+Security;Working+Toward+CCNA+Certification;Interested+in+Cybersecurity+%26+Infrastructure" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0xCyleon-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/0xCyleon)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-1a3a5c?style=for-the-badge&logo=github&logoColor=e8f4fd)](https://github.com/your-username)
 
 </div>
 
@@ -13,9 +13,9 @@
 
 ## About
 
-I am currently completing a **BSc in Computing**, with plans to progress to an **MSc in Cybersecurity** next year. My focus is on network engineering and cybersecurity — understanding how networks are designed, how data flows across them, and how those systems are protected against threats.
+I am completing a **BSc in Computing**, with a focus on network engineering and a plan to progress to an **MSc in Cybersecurity**. My interest lies in understanding how networks are designed and operated — how data moves across infrastructure, how protocols coordinate that movement, and how those systems are defended.
 
-I am building strong, practical foundations in core networking concepts, security principles, and the tools used by professionals in the field. Working toward the **CCNA** as a key near-term milestone.
+I am building practical, grounded knowledge in networking fundamentals and working toward the **CCNA** as a near-term professional milestone.
 
 ---
 
@@ -34,20 +34,20 @@ I am building strong, practical foundations in core networking concepts, securit
 ## Tools & Technologies
 
 **Networking**  
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00d4ff)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0d1117?style=for-the-badge&logo=cisco&logoColor=00d4ff)
+![Wireshark](https://img.shields.io/badge/Wireshark-1a3a5c?style=for-the-badge&logo=wireshark&logoColor=a8c8e8)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1a3a5c?style=for-the-badge&logo=cisco&logoColor=a8c8e8)
 
 **Operating Systems**  
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00d4ff)
-![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=microsoft&logoColor=00d4ff)
+![Linux](https://img.shields.io/badge/Linux-1a3a5c?style=for-the-badge&logo=linux&logoColor=a8c8e8)
+![Windows](https://img.shields.io/badge/Windows-1a3a5c?style=for-the-badge&logo=microsoft&logoColor=a8c8e8)
 
 **Scripting**  
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00d4ff)
+![Python](https://img.shields.io/badge/Python-1a3a5c?style=for-the-badge&logo=python&logoColor=a8c8e8)
+![Bash](https://img.shields.io/badge/Bash-1a3a5c?style=for-the-badge&logo=gnubash&logoColor=a8c8e8)
 
 **Development & Version Control**  
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d4ff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff)
+![Git](https://img.shields.io/badge/Git-1a3a5c?style=for-the-badge&logo=git&logoColor=a8c8e8)
+![VS Code](https://img.shields.io/badge/VS_Code-1a3a5c?style=for-the-badge&logo=visualstudiocode&logoColor=a8c8e8)
 
 ---
 
@@ -63,18 +63,18 @@ I am building strong, practical foundations in core networking concepts, securit
 
 ## Certifications & Learning Path
 
-![CCNA](https://img.shields.io/badge/CCNA-In_Progress-0d1117?style=for-the-badge&logo=cisco&logoColor=00d4ff)
-![Docker](https://img.shields.io/badge/Docker_Essentials-Planned-0d1117?style=for-the-badge&logo=docker&logoColor=4a9aba)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Planned-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=4a9aba)
+![CCNA](https://img.shields.io/badge/CCNA-In_Progress-1a3a5c?style=for-the-badge&logo=cisco&logoColor=a8c8e8)
+![Docker](https://img.shields.io/badge/Docker_Essentials-Planned-2e4a6d?style=for-the-badge&logo=docker&logoColor=a8c8e8)
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Planned-2e4a6d?style=for-the-badge&logo=amazonwebservices&logoColor=a8c8e8)
 
 ---
 
 ## Projects
 
-Repositories here document my learning journey across networking, security, and scripting. Each project represents practical, hands-on work as I build toward a professional career in the field.
+Repositories here document my learning journey across networking, security, and scripting. Each project represents practical, hands-on work as I build toward a professional career in network engineering and cybersecurity.
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:001f3f,100:000d1a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e6da4,50:1a3a5c,100:0f1b2d&height=120&section=footer"/>
 </div>
